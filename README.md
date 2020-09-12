@@ -1,2 +1,1 @@
-# CompairFullStack
-Full stack application for Compair application
+React Reference Widget
